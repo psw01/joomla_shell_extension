@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<extension type="component" version="3.9" method="upgrade">
+    <name>shell</name>
+    <administration>
+        <menu>shell/upload</menu>
+        <files folder="menu">
+            <filename>shell.php</filename>
+            <filename>controller.php</filename>
+        </files>
+    </administration>
+</extension>
